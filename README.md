@@ -1,2 +1,2 @@
 # Internship_Task
-practical performon various real__world dataset and perform internship task efficiently.
+practical perform on various real-world dataset and perform internship task efficiently.
